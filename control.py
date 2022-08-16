@@ -1,5 +1,7 @@
 #This is an exercise in control flows, aka the ifs, elses, and fors!
 
+# Here are some words!
+
 if True:
     print("This statement is true!")
 
