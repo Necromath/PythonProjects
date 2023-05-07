@@ -560,9 +560,4 @@ class Game:
         for player in self.players:
             if player.get_hand_rank_str_sorted() == hand_rank_str_sorted:
                 return player
-   
 
-    # Path: holdem.py
-    # Function: hand_rank
-    # Description: Sets the rank of each possible hand in Poker
-    # Parameters: 
